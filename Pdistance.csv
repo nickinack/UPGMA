@@ -1,0 +1,11 @@
+,ATN38177.1 insulin [Labeo rohita],AAA40590.1 insulin [Octodon degus],NP_990553.1 insulin preproinsulin precursor [Gallus gallus],NP_062002.1 insulin-1 preproprotein [Rattus norvegicus],NP_001103242.1 insulin precursor [Sus scrofa],NP_776351.2 insulin preproprotein [Bos taurus],AAA19033.1 insulin [Oryctolagus cuniculus],NP_001123565.1 insulin precursor [Canis lupus familiaris],AAP35454.1 insulin [Homo sapiens],NP_001008996.1 insulin preproprotein [Pan troglodytes]
+ATN38177.1 insulin [Labeo rohita],585.0,139.0,228.0,205.0,181.0,179.0,178.0,196.0,194.0,198.0
+AAA40590.1 insulin [Octodon degus],139.0,588.0,204.0,317.0,288.0,243.0,317.0,332.0,344.0,341.0
+NP_990553.1 insulin preproinsulin precursor [Gallus gallus],228.0,204.0,574.0,318.0,335.0,321.0,289.0,318.0,317.0,313.0
+NP_062002.1 insulin-1 preproprotein [Rattus norvegicus],205.0,317.0,318.0,594.0,453.0,418.0,442.0,466.0,483.0,480.0
+NP_001103242.1 insulin precursor [Sus scrofa],181.0,288.0,335.0,453.0,579.0,494.0,417.0,474.0,481.0,478.0
+NP_776351.2 insulin preproprotein [Bos taurus],179.0,243.0,321.0,418.0,494.0,568.0,381.0,444.0,435.0,431.0
+AAA19033.1 insulin [Oryctolagus cuniculus],178.0,317.0,289.0,442.0,417.0,381.0,573.0,453.0,479.0,476.0
+NP_001123565.1 insulin precursor [Canis lupus familiaris],196.0,332.0,318.0,466.0,474.0,444.0,453.0,585.0,520.0,516.0
+AAP35454.1 insulin [Homo sapiens],194.0,344.0,317.0,483.0,481.0,435.0,479.0,520.0,589.0,582.0
+NP_001008996.1 insulin preproprotein [Pan troglodytes],198.0,341.0,313.0,480.0,478.0,431.0,476.0,516.0,582.0,589.0
